@@ -1,0 +1,1 @@
+<h1>Hello, Revenue!</h1><?php /**PATH /home/administrador/git/x-finances/x-finances/resources/views/renevue/index.blade.php ENDPATH**/ ?>
